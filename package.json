@@ -1,0 +1,19 @@
+{
+  "name": "innosetupexample",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsx ./src/installer.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^26.4.1",
+    "innosetup-compiler": "^6.3.1",
+    "png-to-ico": "^3.0.2",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
+  }
+}
