@@ -1,4 +1,4 @@
-## Inno Setup 
+## Inno Setup Example
 
 Easy create installer using Innno setup builder
 
