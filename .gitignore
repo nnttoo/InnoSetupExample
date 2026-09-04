@@ -1,3 +1,4 @@
 node_modules/*
 dist-installer/*
 dist/*
+package-lock.json
